@@ -34,7 +34,7 @@ tracker/
  ```
 ---
 
-▶️ How to Run
+# ▶️ How to Run
 Clone the repository:
 
 git clone https://github.com/ArnavS-maker/tracker.git
@@ -49,7 +49,7 @@ python expense_tracker.py
 ```
 ---
 
-🧾 How the Application Works
+# 🧾 How the Application Works
 The program prompts the user to enter an expense name and amount.
 
 The user selects an expense category from an interactive menu.
@@ -72,7 +72,7 @@ All results are displayed in the terminal.
 
 ---
 
-💡 Expense Categories
+# 💡 Expense Categories
 🍌 Food
 
 🏠 Home
@@ -85,7 +85,7 @@ All results are displayed in the terminal.
 
 ---
 
-🎯 Purpose of This Project
+# 🎯 Purpose of This Project
 This project was created to practice and improve:
 
 Python fundamentals
@@ -102,7 +102,7 @@ Using Git and GitHub for version control
 
 ---
 
-🚀 Future Improvements
+# 🚀 Future Improvements
 Input validation for negative or invalid amounts
 
 Monthly expense summaries
@@ -115,7 +115,7 @@ GUI or web-based version
 
 ---
 
-👤 Author:
+# 👤 Author:
 
 Arnav Srivastava
 
